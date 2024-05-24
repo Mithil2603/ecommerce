@@ -12,6 +12,7 @@ header{
     width: 100vw;
     background-color: var(--primary-color);
     position: fixed;
+    z-index: 100;
 }
 
 header nav{

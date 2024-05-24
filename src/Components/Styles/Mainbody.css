@@ -1,0 +1,14 @@
+:root{
+    --primary-color: #172D13;
+    --primary-color-sidebar: #156b06;
+    --secondary-color: #D76F30;
+    --third-color: #6BB77B;
+}
+
+.container{
+    position: absolute;
+    height: 75svh;
+    width: 100vw;
+    background-color: var(--secondary-color);
+    margin-top: 10svh;
+}
